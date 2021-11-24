@@ -14,7 +14,7 @@ Google Coral — libedgetpu (source: https://github.com/google-coral/libedgetpu)
 1. collect the data: handPosedDetection.py
 2. training model: trainingModel.py
 3. testing model: testingModel.py
-4. convert model to tflite (to use the model with Raspberry pi): get_tflite
+4. convert model to tflite (to use the model with Raspberry pi): get_tflite.py
 
 ## Project Member
 This project is the part of Hardware design, TAIST- Tokyo Tech 2021  
